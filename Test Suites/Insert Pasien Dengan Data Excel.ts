@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Insert Pasien Dengan Data Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>fdb11ba5-1723-43c6-a770-15230720ae30</testSuiteGuid>
+   <testCaseLink>
+      <guid>994bdc75-e422-4a83-8200-68b4031e9527</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Insert Pasien - Variables</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5584a5d2-ae68-44f5-bf88-67e95860a76f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Insert Pasien</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5584a5d2-ae68-44f5-bf88-67e95860a76f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama</value>
+         <variableId>82eb53af-f750-4240-8415-3359c83d9fc0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5584a5d2-ae68-44f5-bf88-67e95860a76f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_rekam_medis</value>
+         <variableId>b7fd45db-860c-4840-8200-2bddf9810a84</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5584a5d2-ae68-44f5-bf88-67e95860a76f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>no_telp</value>
+         <variableId>8f9de402-5816-4cd4-9c83-98cec989b221</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5584a5d2-ae68-44f5-bf88-67e95860a76f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tgl_lahir</value>
+         <variableId>f396dc69-1eda-41ed-9be2-b56aa7aa10b9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5584a5d2-ae68-44f5-bf88-67e95860a76f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>alamat</value>
+         <variableId>73085241-fa21-49ca-888c-8c7a5616cbf5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
